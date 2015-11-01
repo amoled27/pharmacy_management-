@@ -1,0 +1,98 @@
+c:\users\home\documents\visual studio 2010\Projects\dbms_project\dbms_project\bin\Debug\dbms_project.exe
+c:\users\home\documents\visual studio 2010\Projects\dbms_project\dbms_project\bin\Debug\dbms_project.pdb
+c:\users\home\documents\visual studio 2010\Projects\dbms_project\dbms_project\obj\x86\Debug\dbms_project.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2010\Projects\dbms_project\dbms_project\obj\x86\Debug\dbms_project.Properties.Resources.resources
+c:\users\home\documents\visual studio 2010\Projects\dbms_project\dbms_project\obj\x86\Debug\dbms_project.csproj.GenerateResource.Cache
+c:\users\home\documents\visual studio 2010\Projects\dbms_project\dbms_project\obj\x86\Debug\dbms_project.exe
+c:\users\home\documents\visual studio 2010\Projects\dbms_project\dbms_project\obj\x86\Debug\dbms_project.pdb
+C:\Users\home\Documents\Visual Studio 2010\Projects\dbms_project\dbms_project\obj\x86\Debug\dbms_project.loginform.resources
+C:\Users\home\documents\visual studio 2010\Projects\dbms_project\dbms_project\obj\x86\Debug\dbms_project.addform.resources
+C:\Users\home\documents\visual studio 2010\Projects\dbms_project\dbms_project\obj\x86\Debug\dbms_project.admin.resources
+C:\Users\home\documents\visual studio 2010\Projects\dbms_project\dbms_project\obj\x86\Debug\dbms_project.searchform.resources
+C:\Users\home\documents\visual studio 2010\Projects\dbms_project\dbms_project\obj\x86\Debug\dbms_project.updateform.resources
+D:\vinil\dbms_project\obj\x86\Debug\dbms_project.exe
+D:\vinil\dbms_project\obj\x86\Debug\dbms_project.pdb
+D:\vinil\dbms_project\obj\x86\Debug\dbms_project.csprojResolveAssemblyReference.cache
+D:\vinil\dbms_project\obj\x86\Debug\dbms_project.addform.resources
+D:\vinil\dbms_project\obj\x86\Debug\dbms_project.admin.resources
+D:\vinil\dbms_project\obj\x86\Debug\dbms_project.loginform.resources
+D:\vinil\dbms_project\obj\x86\Debug\dbms_project.Properties.Resources.resources
+D:\vinil\dbms_project\obj\x86\Debug\dbms_project.searchform.resources
+D:\vinil\dbms_project\obj\x86\Debug\dbms_project.updateform.resources
+D:\vinil\dbms_project\obj\x86\Debug\dbms_project.csproj.GenerateResource.Cache
+F:\vinil\dbms_project\bin\Debug\dbms_project.exe
+F:\vinil\dbms_project\bin\Debug\dbms_project.pdb
+F:\vinil\dbms_project\obj\x86\Debug\dbms_project.addform.resources
+F:\vinil\dbms_project\obj\x86\Debug\dbms_project.admin.resources
+F:\vinil\dbms_project\obj\x86\Debug\dbms_project.loginform.resources
+F:\vinil\dbms_project\obj\x86\Debug\dbms_project.Properties.Resources.resources
+F:\vinil\dbms_project\obj\x86\Debug\dbms_project.searchform.resources
+F:\vinil\dbms_project\obj\x86\Debug\dbms_project.updateform.resources
+F:\vinil\dbms_project\obj\x86\Debug\dbms_project.csproj.GenerateResource.Cache
+F:\vinil\dbms_project\obj\x86\Debug\dbms_project.exe
+F:\vinil\dbms_project\obj\x86\Debug\dbms_project.pdb
+D:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.exe
+D:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.pdb
+D:\ \vinil\dbms_project\bin\Debug\dbms_project.exe
+D:\ \vinil\dbms_project\bin\Debug\dbms_project.pdb
+D:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.csprojResolveAssemblyReference.cache
+D:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.addform.resources
+D:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.admin.resources
+D:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.loginform.resources
+D:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.Properties.Resources.resources
+D:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.searchform.resources
+D:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.updateform.resources
+D:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.csproj.GenerateResource.Cache
+D:\ \vinil\dbms_project\bin\Debug\dbms_project.exe.config
+G:\ \vinil\dbms_project\bin\Debug\dbms_project.exe.config
+G:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.exe
+G:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.pdb
+G:\ \vinil\dbms_project\bin\Debug\dbms_project.exe
+G:\ \vinil\dbms_project\bin\Debug\dbms_project.pdb
+G:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.addform.resources
+G:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.admin.resources
+G:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.deleteform.resources
+G:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.loginform.resources
+G:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.Properties.Resources.resources
+G:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.searchform.resources
+G:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.updateform.resources
+F:\ \vinil\dbms_project\bin\Debug\dbms_project.exe.config
+F:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.exe
+F:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.pdb
+F:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.csprojResolveAssemblyReference.cache
+F:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.addform.resources
+F:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.admin.resources
+F:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.deleteform.resources
+F:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.loginform.resources
+F:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.Properties.Resources.resources
+F:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.searchform.resources
+F:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.updateform.resources
+F:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.csproj.GenerateResource.Cache
+F:\ \vinil\dbms_project\bin\Debug\dbms_project.exe
+F:\ \vinil\dbms_project\bin\Debug\dbms_project.pdb
+F:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.purchase.resources
+C:\Users\home\Desktop\vinil\dbms_project\bin\Debug\dbms_project.exe.config
+C:\Users\home\Desktop\vinil\dbms_project\obj\x86\Debug\dbms_project.exe
+C:\Users\home\Desktop\vinil\dbms_project\obj\x86\Debug\dbms_project.pdb
+C:\Users\home\Desktop\vinil\dbms_project\obj\x86\Debug\dbms_project.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\vinil\dbms_project\obj\x86\Debug\dbms_project.addform.resources
+C:\Users\home\Desktop\vinil\dbms_project\obj\x86\Debug\dbms_project.admin.resources
+C:\Users\home\Desktop\vinil\dbms_project\obj\x86\Debug\dbms_project.deleteform.resources
+C:\Users\home\Desktop\vinil\dbms_project\obj\x86\Debug\dbms_project.loginform.resources
+C:\Users\home\Desktop\vinil\dbms_project\obj\x86\Debug\dbms_project.Properties.Resources.resources
+C:\Users\home\Desktop\vinil\dbms_project\obj\x86\Debug\dbms_project.purchase.resources
+C:\Users\home\Desktop\vinil\dbms_project\obj\x86\Debug\dbms_project.searchform.resources
+C:\Users\home\Desktop\vinil\dbms_project\obj\x86\Debug\dbms_project.updateform.resources
+C:\Users\home\Desktop\vinil\dbms_project\obj\x86\Debug\dbms_project.csproj.GenerateResource.Cache
+C:\Users\home\Desktop\vinil\dbms_project\bin\Debug\dbms_project.exe
+C:\Users\home\Desktop\vinil\dbms_project\bin\Debug\dbms_project.pdb
+G:\vinil\dbms_project\bin\Debug\dbms_project.exe.config
+G:\vinil\dbms_project\obj\x86\Debug\dbms_project.exe
+G:\vinil\dbms_project\obj\x86\Debug\dbms_project.pdb
+G:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.purchase.resources
+G:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.history.resources
+G:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.csprojResolveAssemblyReference.cache
+G:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.csproj.GenerateResource.Cache
+D:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.deleteform.resources
+D:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.history.resources
+D:\ \vinil\dbms_project\obj\x86\Debug\dbms_project.purchase.resources

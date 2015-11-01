@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dbms_project", "dbms_project\dbms_project.csproj", "{8C9E3D14-7C58-480D-AA7F-376F81011416}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C9E3D14-7C58-480D-AA7F-376F81011416}.Debug|x86.ActiveCfg = Debug|x86
+		{8C9E3D14-7C58-480D-AA7F-376F81011416}.Debug|x86.Build.0 = Debug|x86
+		{8C9E3D14-7C58-480D-AA7F-376F81011416}.Release|x86.ActiveCfg = Release|x86
+		{8C9E3D14-7C58-480D-AA7F-376F81011416}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
